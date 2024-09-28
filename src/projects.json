@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Portfolio Website",
+        "description": "Built my personal portfolio website using basic Html, Css & Javascript",
+        "duration" : "1 month",
+        "image" : "http://localhost:5175/port.png",
+        "link" : "https://chuks.dev/"
+    },
+    {
+        "id": "2",
+        "title": "Big Tiger Solar",
+        "description": "Big Tiger Solar is a renowed business brand that deals sales and installation of solar equipments. I managed the routing of this project using Vue Js",
+        "duration" : "2 month",
+        "image" : "http://localhost:5175/bigT.png",
+        "link" : "https://www.bigtigersolar.com/"
+    },
+    {
+        "id": "3",
+        "title": "Gene AI",
+        "description": "Gene AI is a SAAS project that assists genetic experts in research using Artificial Intelligence.",
+        "duration" : "3 month",
+        "image" : "http://localhost:5175/geneAI.png",
+        "link" : "https://www.geneai.info/"
+    }
+]
