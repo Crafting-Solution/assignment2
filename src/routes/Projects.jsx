@@ -22,7 +22,7 @@ const Projects = () => {
                 </div>
                 <div className="project-title">
                   <p>{project.title}</p>
-                  <Link to={project.link}>View Project</Link>
+                  <Link to={project.link} target="_blank">View Project</Link>
                 </div>
               </div>
             ))}
